@@ -1,34 +1,41 @@
 {
-    "1. FC Kaiserslautern": [
+    "1. FCK": [
         "1. FC Kaiserslautern",
-        "Kaiserslautern"
+        "Kaiserslautern",
+        "1. FCK"
     ],
     "Nürnberg": [
         "1. FC Nürnberg",
         "Nürnberg",
         "Nurnberg"
     ],
-    "A. Klagenfurt": [
-        "A. Klagenfurt"
+    "Austria Klagenfurt": [
+        "A. Klagenfurt",
+        "SK Austria Klagenfurt",
+        "Austria Klagenfurt"
     ],
-    "A. Lustenau": [
+    "Austria Lustenau": [
         "A. Lustenau",
-        "Austria Lustenau"
+        "Austria Lustenau",
+        "SC Austria Lustenau"
     ],
-    "AD Alcorcon": [
+    "Alcorcón": [
         "AD Alcorcon",
-        "Alcorcon"
+        "Alcorcon",
+        "AD Alcorcón"
     ],
-    "ADO Den Haag": [
+    "Den Haag": [
         "ADO Den Haag",
         "Den Haag"
     ],
-    "AEK": [
+    "AEK ": [
         "AEK",
-        "AEK Athens"
+        "AEK Athens",
+        "AEK Athens F.C."
     ],
     "AFC Eskilstuna": [
-        "AFC Eskilstuna"
+        "AFC Eskilstuna",
+        "Vasby United"
     ],
     "AFC Wimbledon": [
         "AFC Wimbledon"
@@ -45,7 +52,8 @@
         "AZ Alkmaar"
     ],
     "Aalborg": [
-        "Aalborg"
+        "Aalborg",
+        "AaB"
     ],
     "Aalesund": [
         "Aalesund"
@@ -60,7 +68,7 @@
     "Aberdeen": [
         "Aberdeen"
     ],
-    "Accrington": [
+    "Accrington Stanley": [
         "Accrington",
         "Accrington Stanley"
     ],
@@ -71,16 +79,18 @@
     "Adanaspor": [
         "Adanaspor"
     ],
-    "Admira": [
+    "Flyeralarm Admira": [
         "Admira",
-        "FC Trenkwalder Admira"
+        "FC Trenkwalder Admira",
+        "Flyeralarm Admira"
     ],
     "Ajax": [
         "Ajax"
     ],
-    "Akhisar Belediyespor": [
+    "Akhisarspor": [
         "Akhisar Belediyespor",
-        "Akhisar Belediye"
+        "Akhisar Belediye",
+        "Akhisarspor"
     ],
     "Akhmat Grozny": [
         "Akhmat Grozny",
@@ -109,19 +119,20 @@
         "Almeria"
     ],
     "Altach": [
-        "Altach"
+        "Altach",
+        "Cashpoint SC Rheindorf Altach"
     ],
     "Altay": [
         "Altay"
     ],
-    "America MG": [
+    "América Mineiro": [
         "America MG",
         "América Mineiro"
     ],
     "Amiens": [
         "Amiens"
     ],
-    "Amkar": [
+    "Amkar Perm": [
         "Amkar",
         "Amkar Perm"
     ],
@@ -150,12 +161,12 @@
     "Antwerp": [
         "Antwerp"
     ],
-    "Apollon Apollon": [
+    "Apollon": [
         "Apollon Apollon",
         "Apollon Smyrni",
         "Apollon"
     ],
-    "Argentinos Jrs": [
+    "Argentinos Juniors": [
         "Argentinos Jrs",
         "Argentinos Juniors"
     ],
@@ -163,16 +174,19 @@
         "Aris",
         "Aris Salonika"
     ],
-    "Arminia Bielefeld": [
+    "Arminia": [
         "Arminia Bielefeld",
-        "Bielefeld"
+        "Bielefeld",
+        "Arminia"
     ],
     "Arouca": [
         "Arouca",
         "FC Arouca"
     ],
     "Arsenal": [
-        "Arsenal",
+        "Arsenal"
+    ],
+    "Arsenal Tula": [
         "Arsenal Tula",
         "FC Arsenal Tula"
     ],
@@ -195,26 +209,28 @@
         "Athletic Bilbao",
         "Ath Bilbao"
     ],
-    "Athletico-PR": [
+    "Athletico Paranaense": [
         "Athletico-PR",
         "Atletico-PR",
-        "Atlético Paranaense"
+        "Atlético Paranaense",
+        "Athletico Paranaense"
     ],
-    "Atl. Rafaela": [
-        "Atl. Rafaela"
+    "Atlético de Rafaela": [
+        "Atl. Rafaela",
+        "Atlético de Rafaela"
     ],
-    "Atl. San Luis": [
+    "Atlético San Luis": [
         "Atl. San Luis",
         "Atlético San Luis"
     ],
-    "Atl. Tucuman": [
+    "Atlético Tucumán": [
         "Atl. Tucuman",
         "Atlético Tucumán"
     ],
     "Atlas": [
         "Atlas"
     ],
-    "Atletico GO": [
+    "Atlético Goianiense": [
         "Atletico GO",
         "Atlético Goianiense"
     ],
@@ -222,7 +238,7 @@
         "Atletico Madrid",
         "Ath Madrid"
     ],
-    "Atletico-MG": [
+    "Atletico Mineiro": [
         "Atletico-MG",
         "Atletico Mineiro"
     ],
@@ -254,8 +270,9 @@
         "Bahia",
         "Bahía"
     ],
-    "Olimpo Bahia Blanca": [
+    "Olimpo de Bahia Blanca": [
         "Olimpo Bahia Blanca",
+        "Olimpo de Bahia Blanca",
         "Olimpo"
     ],
     "Banfield": [
@@ -300,7 +317,8 @@
         "Beijing Guoan"
     ],
     "Beijing Renhe": [
-        "Beijing Renhe"
+        "Beijing Renhe",
+        "Guizhou Renhe"
     ],
     "Belenenses": [
         "Belenenses"
@@ -382,7 +400,8 @@
         "Brage"
     ],
     "Brann": [
-        "Brann"
+        "Brann",
+        "SK Brann"
     ],
     "Brentford": [
         "Brentford"
@@ -641,7 +660,8 @@
         "Dalian Pro"
     ],
     "Dalian Yifang F.C.": [
-        "Dalian Yifang F.C."
+        "Dalian Yifang F.C.",
+        "Dalian Aerbin"
     ],
     "Dalkurd": [
         "Dalkurd",
@@ -675,7 +695,7 @@
     ],
     "Djurgarden": [
         "Djurgarden",
-        "Djurgarden IF"
+        "Djurgardens IF"
     ],
     "Doncaster Rovers": [
         "Doncaster Rovers",
@@ -712,7 +732,8 @@
         "Elche"
     ],
     "Elfsborg": [
-        "Elfsborg"
+        "Elfsborg",
+        "IF Elfsborg"
     ],
     "Empoli": [
         "Empoli"
@@ -810,10 +831,12 @@
         "Volendam"
     ],
     "FK Anzi Makhackala": [
-        "FK Anzi Makhackala"
+        "FK Anzi Makhackala",
+        "Anzhi Makhachkala"
     ],
     "FK Rostov": [
-        "FK Rostov"
+        "FK Rostov",
+        "Rostov"
     ],
     "Fakel Voronezh": [
         "Fakel Voronezh"
@@ -955,7 +978,8 @@
         "Goiás"
     ],
     "Goteborg": [
-        "Goteborg"
+        "Goteborg",
+        "IFK Goteborg"
     ],
     "Goztepe": [
         "Goztepe",
@@ -1025,7 +1049,8 @@
         "Halmstads BK"
     ],
     "Ham-Kam": [
-        "Ham-Kam"
+        "Ham-Kam",
+        "Hamarkamaratene"
     ],
     "Hamburg SV": [
         "Hamburg SV",
@@ -1086,7 +1111,8 @@
         "Helsingor"
     ],
     "Henan Songshan Longmen": [
-        "Henan Songshan Longmen"
+        "Henan Songshan Longmen",
+        "Henan Jianye"
     ],
     "Heracles": [
         "Heracles"
@@ -1107,7 +1133,8 @@
         "TSG Hoffenheim"
     ],
     "Hokkaido Consadole Sapporo": [
-        "Hokkaido Consadole Sapporo"
+        "Hokkaido Consadole Sapporo",
+        "Consadole Sapporo"
     ],
     "Holstein Kiel": [
         "Holstein Kiel"
@@ -1165,7 +1192,8 @@
         "Istanbulspor"
     ],
     "Iwata": [
-        "Iwata"
+        "Iwata",
+        "Jubilo Iwata"
     ],
     "Jahn Regensburg": [
         "Jahn Regensburg",
@@ -1240,7 +1268,7 @@
     ],
     "Khimki": [
         "Khimki",
-        "FX Khimki"
+        "FC Khimki"
     ],
     "Kilmarnock": [
         "Kilmarnock"
@@ -1445,7 +1473,8 @@
         "Marseille"
     ],
     "Mattersburg": [
-        "Mattersburg"
+        "Mattersburg",
+        "SV Mattersburg"
     ],
     "Mazatlan FC": [
         "Mazatlan FC",
@@ -1494,7 +1523,8 @@
         "Molde"
     ],
     "Monarcas": [
-        "Monarcas"
+        "Monarcas",
+        "Morelia"
     ],
     "Monterrey": [
         "Monterrey"
@@ -1573,10 +1603,12 @@
         "FK Nizhny Novgorod"
     ],
     "Nordsjaelland": [
-        "Nordsjaelland"
+        "Nordsjaelland",
+        "FC Nordsjaelland"
     ],
     "Norrkoping": [
-        "Norrkoping"
+        "Norrkoping",
+        "IFK Norrkoping"
     ],
     "Northampton": [
         "Northampton",
@@ -1636,7 +1668,8 @@
         "Orebro SK"
     ],
     "Orenburg": [
-        "Orenburg"
+        "Orenburg",
+        "Gazovik Orenburg"
     ],
     "Orléans": [
         "Orléans",
@@ -1650,8 +1683,11 @@
         "VfL Osnabruck"
     ],
     "Oster": [
-        "Oster",
-        "Ostersunds"
+        "Oster"
+    ],
+    "Östersunds": [
+        "Ostersunds",
+        "Östersunds FK"
     ],
     "Oud-Heverlee Leuven": [
         "Oud-Heverlee Leuven",
@@ -1862,7 +1898,8 @@
         "Reus Deportiu"
     ],
     "Ried": [
-        "Ried"
+        "Ried",
+        "SV Ried"
     ],
     "Rio Ave": [
         "Rio Ave"
@@ -1913,7 +1950,8 @@
         "Ponferradina"
     ],
     "SKA Khabarovsk": [
-        "SKA Khabarovsk"
+        "SKA Khabarovsk",
+        "Energiya Khabarovsk"
     ],
     "SV Sandhausen": [
         "SV Sandhausen",
@@ -2025,7 +2063,8 @@
         "Shanghai SIPG"
     ],
     "Shanghai Shenhua": [
-        "Shanghai Shenhua"
+        "Shanghai Shenhua",
+        "Shanghai Greenland"
     ],
     "Sheffield United": [
         "Sheffield United"
@@ -2059,7 +2098,8 @@
         "FC Sion"
     ],
     "Sirius": [
-        "Sirius"
+        "Sirius",
+        "IK Sirius"
     ],
     "Sivasspor": [
         "Sivasspor"
@@ -2141,7 +2181,8 @@
         "Standard"
     ],
     "Start": [
-        "Start"
+        "Start",
+        "IK Start"
     ],
     "Stevenage": [
         "Stevenage"
@@ -2161,7 +2202,8 @@
         "Stromsgodset"
     ],
     "Sturm Graz": [
-        "Sturm Graz"
+        "Sturm Graz",
+        "SK Sturm Graz"
     ],
     "Sudtirol": [
         "Sudtirol"
@@ -2202,13 +2244,12 @@
         "Thun"
     ],
     "Tianjin Jinmen Tiger": [
-        "Tianjin Jinmen Tiger"
+        "Tianjin Jinmen Tiger",
+        "Tianjin Teda"
     ],
     "Tianjin Quanjian": [
         "Tianjin Quanjian",
-        "Tianjin Quanujian"
-    ],
-    "Tianjin Tianhai": [
+        "Tianjin Quanujian",
         "Tianjin Tianhai"
     ],
     "Tigre": [
@@ -2310,11 +2351,13 @@
         "Union Santa Fe"
     ],
     "Ural": [
-        "Ural"
+        "Ural",
+        "Ural Sverdlovsk Oblast"
     ],
     "Urawa Reds": [
         "Urawa Reds",
-        "Urawa Reds Diamonds"
+        "Urawa Reds Diamonds",
+        "Urawa Red Diamonds"
     ],
     "Utrecht": [
         "Utrecht",
@@ -2348,7 +2391,8 @@
         "Varbergs BoIS FC"
     ],
     "Varnamo": [
-        "Varnamo"
+        "Varnamo",
+        "IFK Värnamo"
     ],
     "Vasco": [
         "Vasco",
@@ -2410,8 +2454,11 @@
     ],
     "Vitoria Setubal": [
         "Vitoria Setubal",
-        "Setubal",
-        "Vitoria"
+        "Setubal"
+    ],
+    "Vitoria": [
+        "Vitoria",
+        "Vítoria"
     ],
     "Vizela": [
         "Vizela"
@@ -2472,7 +2519,8 @@
         "Wolves"
     ],
     "Wuhan FC": [
-        "Wuhan FC"
+        "Wuhan FC",
+        "Wuhan Zall"
     ],
     "Wuhan Three Towns": [
         "Wuhan Three Towns"
@@ -2486,15 +2534,20 @@
         "Wurzburger Kickers"
     ],
     "Xamax": [
-        "Xamax"
+        "Xamax",
+        "Neuchatel Xamax"
+
     ],
     "Xanthi": [
         "Xanthi",
         "FC Xanthi"
     ],
+    "Montedio Yamagata": [
+        "Montedio Yamagata"
+    ],
     "Yamaga": [
         "Yamaga",
-        "Montedio Yamagata"
+        "Matsumoto Yamaga FC"
     ],
     "Yanbian": [
         "Yanbian"
@@ -2503,7 +2556,8 @@
         "Yeni Malatyaspor"
     ],
     "Yenisey": [
-        "Yenisey"
+        "Yenisey",
+        "Metallurg Krasnoyarsk"
     ],
     "Yeovil Town": [
         "Yeovil Town",
